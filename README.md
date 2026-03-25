@@ -210,3 +210,34 @@ PRs welcome! To add a new server:
 ## License
 
 MIT
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anthropics">
+        <img src="https://github.com/anthropics.png" width="80px;" alt="Anthropic"/><br />
+        <sub><b>Anthropic</b></sub>
+      </a><br />
+      <sub>Model Context Protocol creators</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/modelcontextprotocol">
+        <img src="https://github.com/modelcontextprotocol.png" width="80px;" alt="MCP"/><br />
+        <sub><b>MCP</b></sub>
+      </a><br />
+      <sub>MCP specification & servers</sub>
+    </td>
+  </tr>
+</table>
